@@ -1,31 +1,38 @@
 .friendMessage {
-
+    margin-left: 200px;
 }
 
 .friendImageAndText {
-
+    font-size: 20px;
+    color: #00cc22;
 }
 
 .friendImageAndText img {
-
+    transform: scale(0.7)
 }
 
 .friendText {
-
+    font-size: 20px;
+    color: #001bcc;
 }
 
 .friendText:after {
-
+    /*content: "->";*/
+    /*color: green;*/
 }
 
 .friendName {
-
+    font-size: 30px;
+    color:magenta;
 }
 
 .friendMessageText {
-
+    border-radius: 30px;
+    border: solid;
+    color: darkgray;
 }
 
 .friendTime {
-
+    font-size: 30px;
+    color: aqua;
 }

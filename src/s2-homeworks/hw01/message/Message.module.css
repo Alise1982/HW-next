@@ -1,31 +1,41 @@
 .message {
-
+    margin-left: 1100px;
 }
 
 .imageAndText {
-
+    font-size: 30px;
+    color: #00cc22;
 }
 
 .imageAndText img {
-
+    transform: scale(0.7)
 }
 
 .text {
-
+    font-size: 20px;
+    color: #b36200;
 }
 
 .text:after {
-
+    /*content: "<-";*/
+    /*color: green;*/
 }
 
 .name {
-
+    font-size: 30px;
+    color: #00cc22;
 }
 
 .messageText {
-
+    font-size: 20px;
+    /*color: #0059b3;*/
+    border-radius: 30px;
+    border: solid;
+    color: darkgray;
 }
 
 .time {
+    font-size: 30px;
+    color: aqua;
 
 }

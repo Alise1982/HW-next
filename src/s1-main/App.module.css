@@ -1,11 +1,36 @@
 .App {
-    --header_height: 60px;
+    /*--header_height: 60px;*/
+
+
 }
 
 .hw {
+    width: 100%;
+    height: 100%;
+    /*top: 131px;*/
+    /*gap: 0px;*/
+    border-radius: 30px;
+    border: solid;
+    color: darkgray;
+
+
+
 
 }
 
 .hwTitle {
+    padding-top : 50px;
+    margin-left: 100px;
+    font-size: 40px;
+    color: black;
+}
+.s2.hwTitle {
+
+
+}
+.s.message {
+
+}
+.s.friendTime {
 
 }
