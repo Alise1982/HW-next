@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HW-next/static/css/main.f558ceb6.css",
+    "main.js": "/HW-next/static/js/main.a431602d.js",
+    "static/js/787.66cb4309.chunk.js": "/HW-next/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/HW-next/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/HW-next/index.html",
+    "main.f558ceb6.css.map": "/HW-next/static/css/main.f558ceb6.css.map",
+    "main.a431602d.js.map": "/HW-next/static/js/main.a431602d.js.map",
+    "787.66cb4309.chunk.js.map": "/HW-next/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f558ceb6.css",
+    "static/js/main.a431602d.js"
+  ]
+}
